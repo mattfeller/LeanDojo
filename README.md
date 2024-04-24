@@ -1,3 +1,6 @@
+Matt Feller's fork of LeanDojo for developing an LLM-based conjecture-generating component to add to the ReProver tool.
+______________________________________________________________________
+
 LeanDojo: Machine Learning for Theorem Proving in Lean
 ======================================================
 
